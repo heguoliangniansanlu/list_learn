@@ -1,0 +1,4 @@
+﻿  源1.c
+C:\Users\36567\source\repos\Project1\Project1\源1.c(21,3): warning C4098: “appendElem”:“void”函数返回值
+C:\Users\36567\source\repos\Project1\Project1\源1.c(25,2): warning C4098: “appendElem”:“void”函数返回值
+  Project1.vcxproj -> C:\Users\36567\source\repos\Project1\x64\Debug\Project1.exe
